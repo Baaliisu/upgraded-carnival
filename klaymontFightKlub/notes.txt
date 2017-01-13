@@ -1,0 +1,4 @@
+Use NodeJS to run the game server.
+Use AngularJS to call the server side (node).
+Use Unity and C# for the actual game stuff.
+Socket.io use for framework because it's really good at handling with a lot of requests.
